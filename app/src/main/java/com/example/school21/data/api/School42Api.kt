@@ -1,4 +1,4 @@
-package com.example.school21
+package com.example.school21.data.api
 
 import com.example.school21.data.model.Coalition
 import com.example.school21.data.model.Token
